@@ -5,3 +5,6 @@ tion algorithms to parameterize performance models from runtime monitoring data.
 
 # Wiki
 For the installation and the details of the Modaclouds-FG-Analyzer, please refer to the wiki: https://github.com/Imperial-AESOP/Filling-the-Gap/wiki
+
+# Manual
+The manual of FG is available at: https://github.com/Imperial-AESOP/Filling-the-Gap/blob/master/manual.pdf
