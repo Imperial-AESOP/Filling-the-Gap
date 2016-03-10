@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FG>   
+    <metric>
+        <algorithm>automatic</algorithm>
+        <timeStep>60</timeStep>
+        <dataHorizon>00.13.08.10.2014-00.14.08.10.2014</dataHorizon>
+        <localDBIP>localhost</localDBIP>
+        <reportDataFolder>/home/ubuntu/FG</reportDataFolder>
+        <CPUMetric>CPUUtil</CPUMetric>
+        <AppMetric>ResponseInfo<AppMetric>
+        <parameter name='window' value='60' />
+        <parameter name='LQNFile' value='/home/ubuntu/pcm2lqn-2015-01-23-111738.xml' />
+        <parameter name='PCMProcessorScaleFile' value='/home/ubuntu/default.resourceenvironment' />
+        <parameter name='PCMDemandFile' value='/home/ubuntu/default.repository' />
+        <parameter name='PCMUsageModelFile' value='/home/ubuntu/default.usagemodel'/>
+        <parameter name='ClassMapFile' value='/home/ubuntu/classMap.properties' />
+        <parameter name='ResourceMapFile' value='/home/ubuntu/resourceMap.properties' />
+    </metric>
+</FG>
+
