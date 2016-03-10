@@ -8,3 +8,8 @@ For the installation and the details of the Modaclouds-FG-Analyzer, please refer
 
 # Manual
 The manual of FG is available at: https://github.com/Imperial-AESOP/Filling-the-Gap/blob/master/manual.pdf
+
+# License
+
+Licensed under the [BSD 3-clause][1]
+[1]: http://opensource.org/licenses/BSD-3-Clause
