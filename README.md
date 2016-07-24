@@ -8,7 +8,7 @@ Filling-the-Gap (FG) tool is a tool for continuous performance model parametriza
 
 # Differences Between Versions
 
-Algorithms:
+Analysis features:
 * MODAClouds-FG: Estimation of execution times, think times, number of jobs. 
 * DICE-FG: Estimation of execution times, think times, number of jobs, memory usage. Fitting of data to statistical distributions.
 
