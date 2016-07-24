@@ -6,7 +6,7 @@ Filling-the-Gap (FG) tool is a tool for continuous performance model parametriza
 * MODAClouds-FG: FG has been initially developed in the [MODAClouds](http://www.modaclouds.eu) project. [[Download](projects/modaclouds)]
 * DICE-FG: An improved version is under development within the [DICE](http://www.dice-h2020.eu) project. [[Download](https://github.com/dice-project/DICE-Enhancement-FG)]
 
-# Differences Between Versions
+## Version Differences
 
 *Analysis features*:
 * MODAClouds-FG: Estimation of execution times, think times, number of jobs. 
