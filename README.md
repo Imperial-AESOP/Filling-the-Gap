@@ -8,18 +8,9 @@ Filling-the-Gap (FG) tool is a tool for continuous performance model parametriza
 
 ## Differences
 
-*Analysis features*:
-* MODAClouds-FG: Estimation of execution times, think times, number of jobs. 
-* DICE-FG: Estimation of execution times, think times, number of jobs, memory usage. Fitting of data to statistical distributions.
-
-*Data input*:
-* MODAClouds-FG: Fuseki local database based on MODAClouds ontology
-* DICE-FG: JSON-based input
-
-*Output*:
-* MODAClouds-FG: Annotated layered queueing network model for use with [LINE](line-solver.sf.net) queueing network solver.
-* DICE-FG: Annotated UML model (MARTE & DICE profiles) 
-
-*Reporting*:
-* MODAClouds-FG: A PDF report is generated to summarize the outcomes.
-* DICE-FG: The model annotations are visually inspectable within [DICE Eclipse IDE](https://github.com/dice-project/DICE-Platform).
+Feature | MODAClouds-FG | DICE-FG
+--- | --- | ---
+Analysis | Estimation of execution times, think times, number of jobs. |  Estimation of execution times, think times, number of jobs, memory usage. Fitting of data to statistical distributions.
+Data input | Fuseki local database based on MODAClouds ontology |  JSON-based input
+Output | Annotated layered queueing network model for use with [LINE](line-solver.sf.net) queueing network solver. | Annotated UML model (MARTE & DICE profiles) 
+Reporting | A PDF report is generated to summarize the analysis results | The model annotations are visually inspectable within [DICE Eclipse IDE](https://github.com/dice-project/DICE-Platform).
